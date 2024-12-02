@@ -26,9 +26,9 @@ React Demo (First React Application)
 
 ``` npm install -g yarn  ```
 
-``` yarn  install```
+``` yarn install```
 
-``` yarn  run dev```
+``` yarn run dev```
 
 
 <h2>Getting Started: How to Create React + Vite Project</h2>
@@ -39,11 +39,11 @@ React Demo (First React Application)
 
 ``` npm install -g yarn  ```
 
-``` yarn  create vite```
+``` yarn create vite```
 
-``` yarn  install```
+``` yarn install```
 
-``` yarn  run dev```
+``` yarn run dev```
 
 
 
