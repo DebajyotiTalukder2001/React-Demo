@@ -20,7 +20,9 @@ React Demo (First React Application)
   
 <h3>Terminal></h3>
 
-```Set-ExecutionPolicy RemoteSigned -Scope CurrentUser```
+```Set-ExecutionPolicy Restricted -Scope CurrentUser``` ❌
+
+```Set-ExecutionPolicy RemoteSigned -Scope CurrentUser``` ✅
 
 ``` npm install -g yarn  ```
 
@@ -28,7 +30,6 @@ React Demo (First React Application)
 
 ``` yarn  run dev```
 
-```Set-ExecutionPolicy Restricted -Scope CurrentUser```
 
 <h2>Getting Started: How to Create React + Vite Project</h2>
 
@@ -43,9 +44,6 @@ React Demo (First React Application)
 ``` yarn  install```
 
 ``` yarn  run dev```
-
-```Set-ExecutionPolicy Restricted -Scope CurrentUser```
-
 
 
 
